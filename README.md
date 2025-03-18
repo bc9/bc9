@@ -7,6 +7,6 @@ alias: hurt
 <br>
 bio:
 
-• antisocial digital artist +graphic designer
+• creator, designer & editor
 <br>
 • learning frontend dev, and trying to pick up some other coding knowledge for fun.
